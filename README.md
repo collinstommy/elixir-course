@@ -1,6 +1,12 @@
 # Servy
 
-**TODO: Add description**
+## Run
+
+```
+iex -S mix
+Servy.HttpServer.start(4000)
+
+```
 
 ## Installation
 
